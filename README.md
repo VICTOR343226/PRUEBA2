@@ -19,9 +19,8 @@
               Main Container
               ------------------------------------------------------------------>
             <div class="ap-ms-logo-container">
-                <div class="ap-logo-container__logo">
                     <img "https://cincaporc.com/wp-content/uploads/2019/03/cincaporc.png">
-                </div>
+                
             </div>
             <!------------------------------------------------------------------
               Content Container
