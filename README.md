@@ -7,7 +7,11 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="https://appservice.azureedge.net/CSS/static-apps/v4/main.css">
-        
+        @import url("ap-cards.css");
+@import url("ap-images.css");
+@import url("ap-main-styles.css");
+@import url("ap-text.css");
+@import url("ap-utilities.css");
     </head>
     <body>
         <div class="ap-main-container">
